@@ -4,5 +4,4 @@ def greet_user(name,place):
 
 
 print("Start")
-greet_user("Ayesha", "Pakistan" )
 print("Finish")
