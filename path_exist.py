@@ -1,7 +1,6 @@
 import os
 
-path = "C:\\Users\\sohai\\OneDrive\\Desktop\\text"
-
+path = input()
 if os.path.exists(path):
     print("That location exist!")
     if os.path.isfile(path):
